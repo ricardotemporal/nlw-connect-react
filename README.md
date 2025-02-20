@@ -20,6 +20,11 @@ A web application for event referrals, allowing users to access their tickets, g
 1. **Clone project**: `git clone https://github.com/ricardotemporal/event-referral-app.git`
 2. **Create feature/branch**: `git checkout -b feature/NAME`
 
+## Related Repository
+
+This project integrates with the backend API developed in the **NLW Connect** event by Rocketseat. You can check out the repository here:  
+🔗 [rocketseat-education/nlw-connect-node](https://github.com/rocketseat-education/nlw-connect-node)
+
 ## <a name="authors">👥 Authors</a>
 
 <table style="border-collapse: collapse; table-layout: auto text-align: left;">
